@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MySocialNet</string>
+    <string name="title_activity_dadals">DadalsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+
+    <string name="min_ago_post">%1$d min ago</string>
+    <string name="hours_ago_post">%1$d hr ago</string>
+    <string name="moment_ago">a moment ago</string>
+    <plurals name="year_ago">
+        <item quantity="one">year ago</item>
+        <item quantity="other">%d years ago</item>
+    </plurals>
+    <plurals name="month_ago">
+        <item quantity="one">month ago</item>
+        <item quantity="other">%1$d mo ago</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="one">%1$d day ago</item>
+        <item quantity="other">%1$d days ago</item>
+    </plurals>
+    <plurals name="week_ago">
+        <item quantity="one">%1$d week ago</item>
+        <item quantity="other">%1$d weeks ago</item>
+    </plurals>
+</resources>
